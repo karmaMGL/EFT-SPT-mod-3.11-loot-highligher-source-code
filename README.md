@@ -1,14 +1,14 @@
 # Loot Highlighter
 
 **Version:** 1.0.0  
-**Author:** YourUsername  
-**SPT Compatibility:** 3.7.x  
+**Author:** karmaMGL  
+**SPT Compatibility:** 3.11.x  
 
 ## Description
 
 Loot Highlighter is a quality-of-life mod that helps you spot valuable items, containers, and corpses in the game world. Never miss important loot again with customizable highlights and labels that show what each item is and how far away it is.
 
-## Features
+## Features(debug menu is buggy)
 
 - **Visual Highlights:** Easy-to-spot highlights for loot items, containers, and corpses
 - **Distance Display:** Optional distance indicators for all highlighted objects
@@ -38,16 +38,16 @@ Loot Highlighter is a quality-of-life mod that helps you spot valuable items, co
 
 ## Compatibility
 
-Compatible with SPT 3.7.x. Should work with most other mods.
+Compatible with SPT 3.11.x. Should work with most other mods.
 
 ## Credits
 
-- Created by: YourUsername
+- Created by: karmaMGL
 - Special thanks to the SPT community
 
 ## License
 
-This project is licensed under MIT License - feel free to use and modify.
+This project is licensed under boost software 1.0 License - feel free to use and modify.
 
 ## Changelog
 
